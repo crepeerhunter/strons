@@ -1,0 +1,5 @@
+<a onMouseOver="z1.src='social/f.png' " onMouseOut="z1.src='social/fc.png' " href="http://facebook.com" target="_blank" ><img src="social/fc.png" name="z1"></a> 
+		
+<a onMouseOver="z2.src='social/s.png' " onMouseOut="z2.src='social/sc.png' " href="http://google.com" target="_blank"><img src="social/sc.png" name="z2"></a> 
+		
+<a onMouseOver="z3.src='social/w.png' " onMouseOut="z3.src='social/wc.png' "href="http://whatsapp.com" target="_blank"><img src="social/wc.png" name="z3"></a>
